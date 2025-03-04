@@ -129,10 +129,10 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 CORS_ALLOW_ALL_ORIGINS = True
 CORS_ALLOW_CREDENTIALS = True
-CSRF_TRUSTED_ORIGINS = ['http://pharma-api.lami9315.odns.fr/','https://db.aniac-togo.com','http://localhost:3000',"http://localhost:3001",'https://aniac-user-web.vercel.app', "http://192.168.x.x:x","https://aniac-togo.com"]
+CSRF_TRUSTED_ORIGINS = ['http://pharma-api.lami9315.odns.fr/','https://open-pharma.vercel.app/','http://localhost:3000',"http://localhost:3001",'https://aniac-user-web.vercel.app', "http://192.168.x.x:x","https://aniac-togo.com"]
 ROOT_URLCONF = 'cimepharmalocate.urls'
 CORS_ORIGIN_WHITELIST = [
-        'https://db-aniac.mekanopro.com',
+        'https://open-pharma.vercel.app/',
         'http://pharma-api.lami9315.odns.fr/',
         'http://localhost:8000',
         'https://aniac-user-web.vercel.app',
@@ -149,9 +149,9 @@ CORS_ALLOW_METHODS = [
     'OPTIONS',
 ]
 CSRF_COOKIE_SECURE = False
-
+"""
 from corsheaders.defaults import default_headers
 CORS_ALLOW_HEADERS = list(default_headers) + [
     'x-xsrf-token',
     'access-control-allow-headers', # this one is important
-]
+]"""
