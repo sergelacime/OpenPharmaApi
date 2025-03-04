@@ -39,9 +39,11 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     "api",
     'django_apscheduler',
+    'corsheaders',
 ]
 
 MIDDLEWARE = [
+    'corsheaders.middleware.CorsMiddleware',
     'django.middleware.security.SecurityMiddleware',
     'django.contrib.sessions.middleware.SessionMiddleware',
     'django.middleware.common.CommonMiddleware',
@@ -123,3 +125,33 @@ STATIC_URL = 'static/'
 # https://docs.djangoproject.com/en/5.1/ref/settings/#default-auto-field
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
+
+
+CORS_ALLOW_ALL_ORIGINS = True
+CORS_ALLOW_CREDENTIALS = True
+CSRF_TRUSTED_ORIGINS = ['http://pharma-api.lami9315.odns.fr/','https://db.aniac-togo.com','http://localhost:3000',"http://localhost:3001",'https://aniac-user-web.vercel.app', "http://192.168.x.x:x","https://aniac-togo.com"]
+ROOT_URLCONF = 'cimepharmalocate.urls'
+CORS_ORIGIN_WHITELIST = [
+        'https://db-aniac.mekanopro.com',
+        'http://pharma-api.lami9315.odns.fr/',
+        'http://localhost:8000',
+        'https://aniac-user-web.vercel.app',
+        'http://localhost:3000',
+        'http://localhost:3001',
+        'http://aniac-togo.com',
+    ]
+CORS_ALLOW_METHODS = [
+    'GET',
+    'POST',
+    'PUT',
+    'PATCH',
+    'DELETE',
+    'OPTIONS',
+]
+CSRF_COOKIE_SECURE = False
+
+from corsheaders.defaults import default_headers
+CORS_ALLOW_HEADERS = list(default_headers) + [
+    'x-xsrf-token',
+    'access-control-allow-headers', # this one is important
+]
