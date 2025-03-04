@@ -8,6 +8,7 @@ import certifi
 import os
 from django.http import JsonResponse
 from django.conf import settings
+from django.views.decorators.csrf import csrf_exempt
 
 os.environ["SSL_CERT_FILE"] = certifi.where()
 
@@ -71,7 +72,7 @@ if __name__ == "__main__":
 
 
 
-
+@csrf_exempt
 def pharmacies_list(request):
     file_path = os.path.join(settings.BASE_DIR, 'pharmacies.json')
     with open(file_path, 'r', encoding='utf-8') as f:
