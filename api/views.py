@@ -51,6 +51,8 @@ def fetch_pharmacies_data():
             "id": str(idx),
             "name": nom,
             "address": emplacement,
+            "hours": "AM - PM",
+            "isOpen": True,
             "phone": telephone,
             "latitude": latitude if latitude else 8.621697000000001,
             "longitude": longitude if longitude else 0.8296844999999848

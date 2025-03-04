@@ -3,6 +3,8 @@
         "id": "1",
         "name": "PHARMACIE BON PASTEUR",
         "address": "44 Av. de la libération en face de Brother Home",
+        "hours": "AM - PM",
+        "isOpen": true,
         "phone": "91 43 44 84",
         "latitude": 6.1290342,
         "longitude": 1.224335
@@ -11,6 +13,8 @@
         "id": "2",
         "name": "PHARMACIE AKOFA",
         "address": "Av. Maman N'Danida Amoutivé",
+        "hours": "AM - PM",
+        "isOpen": true,
         "phone": "70 49 96 28",
         "latitude": 6.1431179,
         "longitude": 1.2298554
@@ -19,6 +23,8 @@
         "id": "3",
         "name": "PHARMACIE BIOVA",
         "address": "Bd. Houphët-Boigny",
+        "hours": "AM - PM",
+        "isOpen": true,
         "phone": "70 23 19 23",
         "latitude": 6.1501967,
         "longitude": 1.2544647
@@ -27,6 +33,8 @@
         "id": "4",
         "name": "PHARMACIE CHÂTEAU-DEAU",
         "address": "Près Château d'eau de BE",
+        "hours": "AM - PM",
+        "isOpen": true,
         "phone": "96 80 08 88",
         "latitude": 8.621697000000001,
         "longitude": 0.8296844999999848
@@ -35,6 +43,8 @@
         "id": "5",
         "name": "PHARMACIE BE-KPEHENOU",
         "address": "Boulevard Félix HOUPHOUET - BOIGNY à Bè  Kpéhénou",
+        "hours": "AM - PM",
+        "isOpen": true,
         "phone": "70 45 25 03",
         "latitude": 8.621697000000001,
         "longitude": 0.8296844999999848
@@ -43,6 +53,8 @@
         "id": "6",
         "name": "PHARMACIE KODJOVIAKOPE",
         "address": "Avenue Duisbour",
+        "hours": "AM - PM",
+        "isOpen": true,
         "phone": "79 69 08 08",
         "latitude": 6.1216541,
         "longitude": 1.2093005
@@ -51,6 +63,8 @@
         "id": "7",
         "name": "PHARMACIE HOPITAL",
         "address": "Face Hôpital CHU-Tokoin",
+        "hours": "AM - PM",
+        "isOpen": true,
         "phone": "70 25 62 57",
         "latitude": 6.144339,
         "longitude": 1.2091479
@@ -59,6 +73,8 @@
         "id": "8",
         "name": "PHARMACIE AMITIE",
         "address": "72 Av. des Hydrocarbures SOTED",
+        "hours": "AM - PM",
+        "isOpen": true,
         "phone": "96 80 09 64",
         "latitude": 6.1535809,
         "longitude": 1.2225734
@@ -67,6 +83,8 @@
         "id": "9",
         "name": "PHARMACIE ST KISITO",
         "address": "Bd. de la Kara près du Bar TAMTAM",
+        "hours": "AM - PM",
+        "isOpen": true,
         "phone": "79 69 08 08",
         "latitude": 8.621697000000001,
         "longitude": 0.8296844999999848
@@ -75,6 +93,8 @@
         "id": "10",
         "name": "PHARMACIE KLOKPE",
         "address": "Derrière la Foire Togo 2000",
+        "hours": "AM - PM",
+        "isOpen": true,
         "phone": "96 80 10 03",
         "latitude": 6.191227,
         "longitude": 1.260828
@@ -83,6 +103,8 @@
         "id": "11",
         "name": "PHARMACIE PROVIDENCE",
         "address": "Bd. Jean Paul 11",
+        "hours": "AM - PM",
+        "isOpen": true,
         "phone": "91 14 88 88",
         "latitude": 6.1606822,
         "longitude": 1.2338052
@@ -91,6 +113,8 @@
         "id": "12",
         "name": "PHARMACIE UNIVERS-SANTE",
         "address": "Bd. GNASSINGBE Eyadéma, Cité OUA face à l'entrée du CHU-CAMPUS",
+        "hours": "AM - PM",
+        "isOpen": true,
         "phone": "93 88 83 31",
         "latitude": 6.1825881,
         "longitude": 1.2145868
@@ -99,6 +123,8 @@
         "id": "13",
         "name": "PHARMACIE AEROPORT",
         "address": "Rte de l'Aéroport SITO",
+        "hours": "AM - PM",
+        "isOpen": true,
         "phone": "96 51 59 74",
         "latitude": 6.1689721,
         "longitude": 1.245859
@@ -107,6 +133,8 @@
         "id": "14",
         "name": "PHARMACIE INTERNATIONALE",
         "address": "Sise Marché de Hédzranawoé \"Assiyéyé\", Boulevard du Haho",
+        "hours": "AM - PM",
+        "isOpen": true,
         "phone": "96 80 09 28",
         "latitude": 8.621697000000001,
         "longitude": 0.8296844999999848
@@ -115,6 +143,8 @@
         "id": "15",
         "name": "PHARMACIE DES LILAS",
         "address": "123HDN 07 Route de Kégué Boulevard Jean Paul 11 prolongé",
+        "hours": "AM - PM",
+        "isOpen": true,
         "phone": "96 16 55 89",
         "latitude": 6.1830548,
         "longitude": 1.2354178
@@ -123,6 +153,8 @@
         "id": "16",
         "name": "PHARMACIE MAWULE",
         "address": "54 Bd de l'OT1 Rondpoint Gakpoto Bè-Kpota",
+        "hours": "AM - PM",
+        "isOpen": true,
         "phone": "70 45 91 86",
         "latitude": 6.1529221,
         "longitude": 1.2450423
@@ -131,6 +163,8 @@
         "id": "17",
         "name": "PHARMACIE FIDELIA",
         "address": "Bè, près de l'hôtel \"LE REFERENTIEL\"",
+        "hours": "AM - PM",
+        "isOpen": true,
         "phone": "96 80 09 18",
         "latitude": 6.1662742,
         "longitude": 1.2665629
@@ -139,6 +173,8 @@
         "id": "18",
         "name": "PHARMACIE SARAH",
         "address": "Près du centre de santé d'Adakpamé",
+        "hours": "AM - PM",
+        "isOpen": true,
         "phone": "70 42 69 02",
         "latitude": 8.621697000000001,
         "longitude": 0.8296844999999848
@@ -147,6 +183,8 @@
         "id": "19",
         "name": "PHARMACIE ELI-BERACA",
         "address": "Route d'Adidogomé, Immeuble SIKOVIC face bureau de Ste",
+        "hours": "AM - PM",
+        "isOpen": true,
         "phone": "99 91 13 42",
         "latitude": 6.1808077,
         "longitude": 1.171924
@@ -155,6 +193,8 @@
         "id": "20",
         "name": "PHARMACIE LA REFERENCE",
         "address": "Route de Kpalimé, Adidogomé Assiyéyé, à côté du bar Madiba",
+        "hours": "AM - PM",
+        "isOpen": true,
         "phone": "96 80 09 96",
         "latitude": 6.2004215,
         "longitude": 1.1488228
@@ -163,6 +203,8 @@
         "id": "21",
         "name": "PHARMACIE BONTE",
         "address": "Route de SEGBE, Wonyomé-Adidogomé en face de la station Sanol",
+        "hours": "AM - PM",
+        "isOpen": true,
         "phone": "96 80 09 00",
         "latitude": 6.1896245,
         "longitude": 1.1537508
@@ -171,6 +213,8 @@
         "id": "22",
         "name": "PHARMACIE AZUR",
         "address": "yok0è-Gbomamé, rte d'Atigangomé, Carrefour Obéna, près de l'eglise Pentécôte",
+        "hours": "AM - PM",
+        "isOpen": true,
         "phone": "90 49 44 56",
         "latitude": 8.621697000000001,
         "longitude": 0.8296844999999848
@@ -179,6 +223,8 @@
         "id": "23",
         "name": "PHARMACIE JAHNAP",
         "address": "A côté de l'EPP Gakli, Didjolé-Gakli immeuble Favo",
+        "hours": "AM - PM",
+        "isOpen": true,
         "phone": "96 80 09 29",
         "latitude": 6.1755097,
         "longitude": 1.1979032
@@ -187,6 +233,8 @@
         "id": "24",
         "name": "PHARMACIE CONFIANCE",
         "address": "Face GTA",
+        "hours": "AM - PM",
+        "isOpen": true,
         "phone": "70 15 78 46",
         "latitude": 6.1914338,
         "longitude": 1.2084422
@@ -195,6 +243,8 @@
         "id": "25",
         "name": "PHARMACIE LUMIERE",
         "address": "AGBALEPEDOGAN - Lossossime près du Rondpoint de l'Œuf",
+        "hours": "AM - PM",
+        "isOpen": true,
         "phone": "70 43 15 49",
         "latitude": 6.2012618,
         "longitude": 1.1951491
@@ -203,6 +253,8 @@
         "id": "26",
         "name": "PHARMACIE GROUPE C",
         "address": "A bal 'do an face Clinique la Victoire non loin de IEPP Groupe C",
+        "hours": "AM - PM",
+        "isOpen": true,
         "phone": "99 98 20 87",
         "latitude": 6.1881338,
         "longitude": 1.195267
@@ -211,6 +263,8 @@
         "id": "27",
         "name": "PHARMACIE DES ORCHIDEES",
         "address": "AGOE-TELESSOU LEO 2000",
+        "hours": "AM - PM",
+        "isOpen": true,
         "phone": "93 43 10 49",
         "latitude": 6.2113261,
         "longitude": 1.1771699
@@ -219,6 +273,8 @@
         "id": "28",
         "name": "PHARMACIE SOLIDARITE",
         "address": "Rue Avédji Limousine, Près de l'UTB Totsi BP : 8919 Lomé - TOGO",
+        "hours": "AM - PM",
+        "isOpen": true,
         "phone": "96 80 09 76",
         "latitude": 6.1966467,
         "longitude": 1.1867889
@@ -227,6 +283,8 @@
         "id": "29",
         "name": "PHARMACIE DE LA VICTOIRE",
         "address": "Avéd'i Wessomé, Sur le Bd Faure Gnassingbé (soie douane d'Adidogomé - CarfLimousine), après les rails.",
+        "hours": "AM - PM",
+        "isOpen": true,
         "phone": "70 45 74 92",
         "latitude": 6.1571711,
         "longitude": 1.2020895
@@ -235,6 +293,8 @@
         "id": "30",
         "name": "PHARMACIE ARC-EN-CIEL",
         "address": "Agoè-Téléssou, à 50m du Carrefour Margot",
+        "hours": "AM - PM",
+        "isOpen": true,
         "phone": "70 42 50 00",
         "latitude": 8.621697000000001,
         "longitude": 0.8296844999999848
@@ -243,6 +303,8 @@
         "id": "31",
         "name": "PHARMACIE SHALOM",
         "address": "Agoè-Cacavé1i, non loin de BKS. Sur Bd Faure GNASSINGBE",
+        "hours": "AM - PM",
+        "isOpen": true,
         "phone": "93 58 78 23",
         "latitude": 6.2176737,
         "longitude": 1.203511
@@ -251,6 +313,8 @@
         "id": "32",
         "name": "PHARMACIE APOU ANTOINE",
         "address": "Boulevard Lycée Agoè-Assiyéyé Face TOTAL Minamadou II",
+        "hours": "AM - PM",
+        "isOpen": true,
         "phone": "70 41 36 12",
         "latitude": 6.2240432,
         "longitude": 1.1927747
@@ -259,6 +323,8 @@
         "id": "33",
         "name": "PHARMACIE AGOE-NYIVE",
         "address": "A côté de l'Eglise Catholique d'Agoè-Nyivé",
+        "hours": "AM - PM",
+        "isOpen": true,
         "phone": "+228 22 25 83 38",
         "latitude": 6.22621335,
         "longitude": 1.2104597085470965
@@ -267,6 +333,8 @@
         "id": "34",
         "name": "PHARMACIE SALA HOUBEIDA",
         "address": "Agoè Kelegougan Koffi Panou Carrefour O' queens",
+        "hours": "AM - PM",
+        "isOpen": true,
         "phone": "91 91 15 35",
         "latitude": 8.621697000000001,
         "longitude": 0.8296844999999848
@@ -275,6 +343,8 @@
         "id": "35",
         "name": "PHARMACIE LE ROCHER",
         "address": "Agoè zongo, sur la route national NO I, rès du terrain de jeu de golf",
+        "hours": "AM - PM",
+        "isOpen": true,
         "phone": "92 30 06 56",
         "latitude": 6.2463084,
         "longitude": 1.2092832
@@ -283,6 +353,8 @@
         "id": "36",
         "name": "PHARMACIE EL NOUR",
         "address": "AGOE - Alinka non loin du CMS Togblekopé",
+        "hours": "AM - PM",
+        "isOpen": true,
         "phone": "97 79 93 74",
         "latitude": 8.621697000000001,
         "longitude": 0.8296844999999848
@@ -291,6 +363,8 @@
         "id": "37",
         "name": "PHARMACIE ZILIDJI",
         "address": "Derrière le marché d'agoè zongo",
+        "hours": "AM - PM",
+        "isOpen": true,
         "phone": "92 61 66 08",
         "latitude": 8.621697000000001,
         "longitude": 0.8296844999999848
@@ -299,6 +373,8 @@
         "id": "38",
         "name": "PHARMACIE ELEMAWUSSI",
         "address": "Adétikopé, Médina, Nationale NO I, avant PIA (Plateforme Industrielle)",
+        "hours": "AM - PM",
+        "isOpen": true,
         "phone": "92 34 06 80",
         "latitude": 6.3291033,
         "longitude": 1.2186433
@@ -307,6 +383,8 @@
         "id": "39",
         "name": "PHARMACIE SATIS",
         "address": "Agoè-Logopé face CEG Agoènyivé Ouest (Kossigan sur la rue de 50m",
+        "hours": "AM - PM",
+        "isOpen": true,
         "phone": "70 44 85 17",
         "latitude": 8.621697000000001,
         "longitude": 0.8296844999999848
@@ -315,6 +393,8 @@
         "id": "40",
         "name": "PHARMACIE DENIS",
         "address": "AGOE Kové, Carrefour Kpogli",
+        "hours": "AM - PM",
+        "isOpen": true,
         "phone": "93 08 46 40",
         "latitude": 6.2476092,
         "longitude": 1.1617103
@@ -323,6 +403,8 @@
         "id": "41",
         "name": "PHARMACIE EMMAÜS",
         "address": "Sur la route de Mission Tové à côté du bar Solidarité",
+        "hours": "AM - PM",
+        "isOpen": true,
         "phone": "70 40 25 40",
         "latitude": 6.2358935,
         "longitude": 1.1940329
@@ -331,6 +413,8 @@
         "id": "42",
         "name": "PHARMACIE CHARITE",
         "address": "A côté du CEG d'Agoè-Nyivé",
+        "hours": "AM - PM",
+        "isOpen": true,
         "phone": "90 65 21 90",
         "latitude": 6.2254357,
         "longitude": 1.2048486
@@ -339,6 +423,8 @@
         "id": "43",
         "name": "PHARMACIE GANFAT",
         "address": "AGOE DALIKO près du CarfEDEM CAMP GP",
+        "hours": "AM - PM",
+        "isOpen": true,
         "phone": "70 22 15 15",
         "latitude": 6.2374252,
         "longitude": 1.162816
@@ -347,6 +433,8 @@
         "id": "44",
         "name": "PHARMACIE ZOPOMAHE",
         "address": "ZOPOMAHE, sur la route Zossimé - Sanguera à côté de la salle des témoins de Jehovah",
+        "hours": "AM - PM",
+        "isOpen": true,
         "phone": "96 28 34 10",
         "latitude": 8.621697000000001,
         "longitude": 0.8296844999999848
@@ -355,6 +443,8 @@
         "id": "45",
         "name": "PHARMACIE EL-SALI",
         "address": "Rte Lomé-Kpa1imé, Aflao Apédokoè Gbomamé, à 50 m de la quaincaillerie MACO",
+        "hours": "AM - PM",
+        "isOpen": true,
         "phone": "97 53 44 44",
         "latitude": 8.621697000000001,
         "longitude": 0.8296844999999848
@@ -363,6 +453,8 @@
         "id": "46",
         "name": "PHARMACIE OBSERVANCE",
         "address": "SOGBOSSITO, en face de la station Total Energies à Côté du Cam BIR",
+        "hours": "AM - PM",
+        "isOpen": true,
         "phone": "70 74 22 22",
         "latitude": 8.621697000000001,
         "longitude": 0.8296844999999848
@@ -371,6 +463,8 @@
         "id": "47",
         "name": "PHARMACIE MBA",
         "address": "Agoè-Légbassito. Route de Mission Tové, 300 mètres après le marché de Légbassito",
+        "hours": "AM - PM",
+        "isOpen": true,
         "phone": "70 27 81 81",
         "latitude": 8.621697000000001,
         "longitude": 0.8296844999999848
@@ -379,6 +473,8 @@
         "id": "48",
         "name": "PHARMACIE BAGUIDA",
         "address": "Face CMS de Baguida",
+        "hours": "AM - PM",
+        "isOpen": true,
         "phone": "70 42 47 77",
         "latitude": 6.1701542,
         "longitude": 1.3258488
@@ -387,6 +483,8 @@
         "id": "49",
         "name": "PHARMACIE LA FLAMME D'AMOUR",
         "address": "Qt. Bobole kope / Kpogan Non Loin du cimétière Zogbedjimonou",
+        "hours": "AM - PM",
+        "isOpen": true,
         "phone": "70 45 70 14",
         "latitude": 6.1762419,
         "longitude": 1.3657305
@@ -395,6 +493,8 @@
         "id": "50",
         "name": "PHARMACIE LUMEN",
         "address": "DJAGBLE En face de l'EPP Plakomé",
+        "hours": "AM - PM",
+        "isOpen": true,
         "phone": "70 41 68 36",
         "latitude": 6.1571711,
         "longitude": 1.2020895
@@ -403,6 +503,8 @@
         "id": "51",
         "name": "PHARMACIE HELENE",
         "address": "Aveta face au marché d' Aveta",
+        "hours": "AM - PM",
+        "isOpen": true,
         "phone": "96 98 15 15",
         "latitude": 8.621697000000001,
         "longitude": 0.8296844999999848
